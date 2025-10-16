@@ -4,6 +4,8 @@ public class App {
         
         String tekijä = "Erika Laine";
         System.out.println("Ohjelman tekijä: " + tekijä);
+        // Testimuutos commitille
+
 
         
         double luku1 = 5;

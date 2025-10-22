@@ -4,7 +4,7 @@ public class App {
         
         String tekijä = "Erika";
         System.out.println("Ohjelman tekijä: " + tekijä);
-        System.out.println("Testirivi commitille");
+        
 
 
         double luku1 = 5;
